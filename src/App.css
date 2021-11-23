@@ -1,0 +1,9 @@
+body{
+  background-image:url('https://articles-img.sftcdn.net/images/f_auto,q_auto/w_1920,h_1080/v1582332659/paisaje_15_c45f87/paisaje_15_c45f87.jpg');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.App{
+  margin-top: 25%;
+}

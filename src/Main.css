@@ -1,0 +1,96 @@
+.ContArt{
+    background: rgba(15, 14, 14, 0.527);
+    /* filter: blur(10px);
+    z-index: -1; */
+    border-radius: 5px;
+    width: 500px;
+    height: 550px;
+}
+
+.ContIcon{
+    margin-left: 10px;
+    color: aliceblue;
+}
+.ContSection{
+    text-align: center;
+}
+
+.ContSearch{
+    display: flex;
+    height: 40px;
+    justify-content: space-evenly;
+}
+.ContCity{
+    margin-top: 10px;
+}
+.ContPais{
+    margin-top: 10px;
+}
+.ContSearchCity{
+    background: rgba(15, 14, 14, 0.527);
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    text-align: center;
+    outline: none;
+}
+.ContSearchPais{
+    background: rgba(15, 14, 14, 0.527);
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    text-align: center;
+    outline: none;
+}
+.ContBoton{
+    margin-top: 20px;
+}
+.ContCiudad{
+    color: aliceblue;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 120px;
+    width: 250px;
+    border-block-end: 1px solid  rgba(240, 248, 255, 0.151);
+}
+.ContTemp{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: rgb(128, 176, 218);
+    font-size: 60px;
+}
+.TxtTemp{
+    margin-left: 120px;
+    width: 250px;
+    border-block-end: 1px solid  rgba(240, 248, 255, 0.151);
+}
+.ContHume{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: rgb(128, 176, 218);
+    font-size: 60px;
+}
+.TxtHume{
+    margin-left: 120px;
+    width: 250px;
+    border-block-end: 1px solid  rgba(240, 248, 255, 0.151);
+}
+.ContVelo{
+    margin-top: 20px;
+    color: rgb(128, 176, 218);
+    font-size: 60px;
+}
+.TxtVelo{
+    margin-left: 120px;
+    width: 250px;
+    border-block-end: 1px solid  rgba(240, 248, 255, 0.151);
+}
+
+.footer{
+    margin-top: 5px;
+    margin-left: 190px;
+}
